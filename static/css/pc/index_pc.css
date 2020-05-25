@@ -32,6 +32,7 @@
     height: 100%;
 }
 .gameIcon img{
+    width: 76px;
     margin-top: 21px;
 }
 .gameDescBox{
